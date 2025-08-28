@@ -109,8 +109,5 @@ pip install scikit-learn scikit-image matplotlib imageio
 
 ---
 
-## 👨‍💻 Author
-
-**Garvit Khedar**
 :)
 
